@@ -3,7 +3,7 @@ title: "New Zealand Programming Contest"
 date: 2022-12-30T10:33:12Z
 menu_hack: "home"
 ---
-# Welcome to the New Zealand Programming Contest 
+# Welcome to the New Zealand Programming Contest! 
 
 ## The 2024 contest will be held on August 17th, starting at 14:00 (2pm).
 
